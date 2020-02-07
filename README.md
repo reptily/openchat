@@ -8,7 +8,9 @@
 ## Install
 Need run commands in the terminal for Linux
 ```bash
-git clone git@github.com:reptily/openchat.git
+wget https://github.com/reptily/openchat/archive/master.zip
+unzip master.zip
+cd openchat-master
 npm install
 npm run certification
 ```
