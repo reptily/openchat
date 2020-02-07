@@ -34,3 +34,6 @@ All necessary configurations are in th file *config.js*
 npm run certification
 ```
 
+### Test server
+**ip**: 80.78.246.145\
+**port**: 5000
