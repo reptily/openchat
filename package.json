@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "client": "node index.js",
+    "client": "clear && node index.js",
     "server": "node server.js",
     "certification": "cd bin && sh certification-generation.sh"
   },
